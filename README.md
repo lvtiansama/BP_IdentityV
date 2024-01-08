@@ -1,4 +1,4 @@
-# BP_IdentityV_V1.1
+# BP_IdentityV_V1.2
 
 第五人格 BP系统
 
